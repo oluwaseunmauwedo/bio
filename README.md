@@ -10,7 +10,7 @@ Then fork and get building...
 
 ## Why Bio?
 
-Traditional biomedical research is fragmented across dozens of databases and platforms. Bio changes everything by providing:
+Traditional biomedical research and data is fragmented across dozens of databases and platforms. Bio changes everything by providing:
 
 - **Comprehensive Medical Data** - PubMed articles, ClinicalTrials.gov data, FDA drug labels, and more
 - **One Unified Search** - Powered by Valyu's specialized biomedical data API
